@@ -23,8 +23,7 @@ function displayArray() {
 }
 function resultData() {
   //คำนวนข้อมูล
-  //กำหนดตัวแปร
-  //เลขคู่
+
   let Lk = 1;
   //เลขคี่
   let Lkk = 1;
